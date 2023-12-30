@@ -5,8 +5,6 @@ import SummaryPage from './pages/SummaryPage/SummaryPage';
 
 function App() {
 
-
-
   const [counter, setCounter] = useState(0);
   const [buttonDisabled, setButtonDisabled] = useState(false);
 
